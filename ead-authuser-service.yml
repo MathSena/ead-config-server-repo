@@ -28,7 +28,7 @@ spring:
 ead:
   api:
     url:
-      course: 'http://ead-course-service'
+      course: 'http://ead-course-service:8082'
   broker:
     exchange:
       userEvent: ead.userevent
